@@ -1,0 +1,12 @@
+{
+  "name": "lasha/lab3-intskirveli",
+  "authors": [
+    {
+      "name": "Lasha-Giorgi Intskirveli",
+      "email": "giorgilasha3@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.4"
+  }
+}
